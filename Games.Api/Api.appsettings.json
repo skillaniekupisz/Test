@@ -1,0 +1,40 @@
+{
+  "Api": {
+    "Authentication": {
+      "ApplicationKeySize": 2048,
+      "Key": "8Zz5tw0Ionm3XPZZfN0NOml3z9FMfmpgXwovR9fp6ryDIoGRM8EPHAB6iHsc0fb",
+      "TokenExpiration": "00:15:00"
+    }
+  },
+
+  "Core": {
+
+  },
+
+  "Infrastructure": {
+    "Repositories": {
+      "Type": "CosmosDb",
+      "Database": "games",
+      "ConnectionString": "AccountEndpoint=https://api-games.documents.azure.com:443/;AccountKey=zvj5C5A87wiqa6yaRuaNdmxO4YAkatnnOIqIajp6SHyxpGX7uW1OGyFp515nEDTDrOu8CiQ46MGAYjg4s2fXCA==;"
+    },
+    "Telemetry": {
+      "Type": "ApplicationInsights",
+      "InstrumentationKey": "3acfb835-6d98-43d5-b496-0bcdaf286185",
+      "IgnoredPaths": [
+        "/",
+        "/swagger",
+        "/swagger/(.*)",
+        "/favicon.ico",
+        "/weather"
+      ]
+    }
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}

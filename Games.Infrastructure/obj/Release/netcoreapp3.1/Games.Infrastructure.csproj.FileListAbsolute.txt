@@ -1,0 +1,14 @@
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\bin\Release\netcoreapp3.1\Games.Infrastructure.deps.json
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\bin\Release\netcoreapp3.1\Games.Infrastructure.dll
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\bin\Release\netcoreapp3.1\Games.Infrastructure.pdb
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\bin\Release\netcoreapp3.1\Games.Core.dll
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\bin\Release\netcoreapp3.1\Games.Core.pdb
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\obj\Release\netcoreapp3.1\Games.Infrastructure.csprojAssemblyReference.cache
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\obj\Release\netcoreapp3.1\Games.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\obj\Release\netcoreapp3.1\Games.Infrastructure.AssemblyInfo.cs
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\obj\Release\netcoreapp3.1\Games.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\obj\Release\netcoreapp3.1\Games.Infrastructure.csproj.CopyComplete
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\obj\Release\netcoreapp3.1\Games.Infrastructure.dll
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\obj\Release\netcoreapp3.1\Games.Infrastructure.pdb
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\bin\Release\netcoreapp3.1\Games.Common.dll
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Infrastructure\bin\Release\netcoreapp3.1\Games.Common.pdb

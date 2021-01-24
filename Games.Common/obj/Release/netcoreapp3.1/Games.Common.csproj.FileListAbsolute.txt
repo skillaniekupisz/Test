@@ -1,0 +1,9 @@
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Common\bin\Release\netcoreapp3.1\Games.Common.deps.json
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Common\bin\Release\netcoreapp3.1\Games.Common.dll
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Common\bin\Release\netcoreapp3.1\Games.Common.pdb
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Common\obj\Release\netcoreapp3.1\Games.Common.csprojAssemblyReference.cache
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Common\obj\Release\netcoreapp3.1\Games.Common.AssemblyInfoInputs.cache
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Common\obj\Release\netcoreapp3.1\Games.Common.AssemblyInfo.cs
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Common\obj\Release\netcoreapp3.1\Games.Common.csproj.CoreCompileInputs.cache
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Common\obj\Release\netcoreapp3.1\Games.Common.dll
+C:\Users\epawe\Desktop\Aplikacje Biznesowe\Games\Games.Common\obj\Release\netcoreapp3.1\Games.Common.pdb
